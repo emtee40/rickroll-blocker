@@ -1,0 +1,6 @@
+! Title: Rickroll Blocker
+! Description: Foils (most) attempts to rickroll you.
+! Licence: https://unlicense.org/
+! Homepage: https://github.com/anon-123456789/rickroll-blocker
+||youtube.com/watch?v=dQw4w9WgXcQ^$document
+||youtu.be/dQw4w9WgXcQ^$document
