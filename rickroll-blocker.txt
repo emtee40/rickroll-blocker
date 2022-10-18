@@ -1,5 +1,5 @@
 ! Title: Rickroll Blocker
-! Description: Foils (most) attempts to rickroll you.
+! Description: Foils (some) attempts to rickroll you.
 ! Licence: https://unlicense.org/
 ! Homepage: https://github.com/anon-123456789/rickroll-blocker
 ! Expires: 4 days (update frequency)
